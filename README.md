@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoiltoLopez&theme=dracula&show_icons=true">
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoiltoLopez&theme=dracula&show_icons=true">
 
 ### Hi! Me chamo Joilto e sou apaixonado por tecnlogia desde os 11 anos de idade :)
 
