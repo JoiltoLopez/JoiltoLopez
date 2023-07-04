@@ -3,7 +3,7 @@
 <h1 align="center"> Hi👋, meu nome e Joilto<h1>
 
 
-Estudante front end e back end e totalmente apaixonado por tecnologia <3
+Estudante front end, back end e totalmente apaixonado por tecnologia <3
 
 [![Linkedin Badge](https://img.shields.io/badge/-joiltolopez-986DFF?style=for-the-badge&labelColor=986DFF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joilto-lopez/)](https://linkedin.com/in/joilto-lopez/)
 [![intagram Bagde](https://img.shields.io/badge/-Joilto_Lopezz-986DFF?style=for-the-badge&labelColor=986DFF&logo=instagram&logoColor=white&link=https://www.instagram.com/joilto_lopezz)](https://instagram.com/joilto_lopezz)
